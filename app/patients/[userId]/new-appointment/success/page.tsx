@@ -22,7 +22,7 @@ const RequestSuccess = async ({
       <div className="success-img">
         <Link href="/">
           <Image
-            src="/assets/icons/Group 2.svg"
+            src="/assets/icons/Group 4.svg"
             height={1000}
             width={1000}
             alt="logo"
